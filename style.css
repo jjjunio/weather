@@ -31,13 +31,14 @@ body {
 .degree-section {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .degree-section span {
-  margin: 2rem;
+  margin: 1rem;
   font-size: 3rem;
 }
 
 .degree-section h2 {
-  font-size: 5rem;
+  font-size: 3rem;
 }
